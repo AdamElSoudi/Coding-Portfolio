@@ -1,0 +1,61 @@
+﻿@model Errand
+
+    <section>
+        <h3> Ärende @Model.RefNumber</h3>
+
+        <section id="leftColumn">
+            <h3>Anmälan</h3>
+
+            <p> <b>Typ av brott:</b></p>
+            <p> @Model.TypeOfCrime</p>
+
+            <p> <b>Brottsplats:</b></p>
+            <p> @Model.Place </p>
+
+            <p> <b>Brottsdatum:</b></p>
+            <p> @Model.DateOfObservation.ToShortDateString()</p>
+
+            <p> <b>Anmälare:</b></p>
+            <p>@Model.InformerName</p>
+
+            <p> <b>Telefon:</b></p>
+            <p> @Model.InformerPhone</p>
+
+            <p> <b>Observationer:</b></p>
+            <p> @Model.Observation</p>
+        </section>
+
+        <section id="rightColumn">
+            <h3>Utredning</h3>
+
+            <p> <b> Status: </b></p>
+            <p> @Model.StatusId </p>
+
+            <p> <b> Ansvarig avdelning:</b></p>
+            <p> @Model.DepartmentId </p>
+            <p> <b> Provtagning: </b></p>
+            <p>
+                @foreach (Sample sample in Model.Samples)
+                    {
+                        <p> <a href="~/Uploads/Sample/@sample.sampleName"> @sample.sampleName.Substring(sample.sampleName.IndexOf("_") + 1) </a></p>
+                    }
+            </p>
+
+            <p> <b> Bilder: </b></p>
+            <p>
+                @foreach (Picture picture in Model.Pictures)
+                    {
+                        <p> <a href="~/Uploads/Image/@picture.pictureName"> @picture.pictureName.Substring(picture.pictureName.IndexOf("_") + 1) </a></p>
+                    }
+            </p>
+
+                    <p> <b> Handläggare:</b></p>
+                    <p> @Model.EmployeeId </p>
+
+                    <p> <b> Ytterligare information:</b></p>
+                    <p> @Model.InvestigatorInfo </p>
+
+                    <p> <b>Händelser:</b></p>
+                    <p> @Model.InvestigatorAction </p>
+                </section>
+    </section>

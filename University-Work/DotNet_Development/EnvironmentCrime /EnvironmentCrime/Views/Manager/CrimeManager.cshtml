@@ -1,0 +1,31 @@
+﻿@model Employee
+
+    @{
+        Layout = "_ManagerLayout";
+    }
+
+    <div id="content">
+        <h2>Detaljer för ärendet</h2>
+        <p class="info">Du är inloggad som avdelningschef</p>
+
+        @await Component.InvokeAsync("ShowOneErrand", ViewBag.ID)
+
+        <section id="bottomColumn">
+            <h3>Redigera ärende</h3>
+            <p>
+                Ange handläggare:
+                <form asp-controller="Manager" asp-action="SaveEmployee" method="post">
+
+                    <select asp-for="EmployeeId" asp-items="@(new SelectList(ViewBag.EmployeeList, "EmployeeId", "EmployeeName"))">
+                        <option selected="selected">Välj</option>
+
+
+                    </select>
+
+                    <p><input type="checkbox" name="noAction" value="true" /> Ingen åtgärd:
+                        <input type="text" name="reason" value="Ange motivering" /></p>
+                    <p><input class="button" type="submit" value="Spara" /></p>
+                </form>
+            </p>
+        </section>
+    </div>

@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/stylesheet/style.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div id="wrapper">
+        <header id="logo">
+            <h1>Småstad</h1>
+            <p>Kommunen där vi bryr oss om varandra</p>
+        </header><!-- End header -->
+
+        <nav>
+            <ul>
+                <li><a class="reports" asp-controller="Investigator" asp-action="StartInvestigator">Start(Ärenden)</a></li>
+                <li class="right"><a class="logout" asp-controller="Account" asp-action="Login">Logga ut</a></li>
+            </ul>
+        </nav><!-- End Nav -->
+
+        <main>
+            @RenderBody()
+
+            <footer>
+                &copy; Småstads Kommun All rights reserved.
+            </footer></main>
+    </div><!-- End Content -->
+    <!-- </div> End Wrapper -->
+    <!-- </main> -->
+</body>
+</html>
+

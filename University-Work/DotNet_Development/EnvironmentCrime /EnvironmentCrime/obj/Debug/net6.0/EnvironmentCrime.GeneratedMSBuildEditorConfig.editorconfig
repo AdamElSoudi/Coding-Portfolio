@@ -1,0 +1,112 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EnvironmentCrime
+build_property.RootNamespace = EnvironmentCrime
+build_property.ProjectDir = /Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Citizen/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0aXplbi9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Citizen/Faq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0aXplbi9GYXEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Citizen/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0aXplbi9TZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Citizen/Thanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0aXplbi9UaGFua3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Citizen/Validate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0aXplbi9WYWxpZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Coordinator/CrimeCoordinator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29vcmRpbmF0b3IvQ3JpbWVDb29yZGluYXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Coordinator/ReportCoordinator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29vcmRpbmF0b3IvUmVwb3J0Q29vcmRpbmF0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Coordinator/StartCoordinator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29vcmRpbmF0b3IvU3RhcnRDb29yZGluYXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Coordinator/Thanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29vcmRpbmF0b3IvVGhhbmtzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Coordinator/Validate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29vcmRpbmF0b3IvVmFsaWRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Investigator/CrimeInvestigator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW52ZXN0aWdhdG9yL0NyaW1lSW52ZXN0aWdhdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Investigator/StartInvestigator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW52ZXN0aWdhdG9yL1N0YXJ0SW52ZXN0aWdhdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Manager/CrimeManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFuYWdlci9DcmltZU1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Manager/StartManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFuYWdlci9TdGFydE1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Shared/Components/CompleteErrandList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ29tcGxldGVFcnJhbmRMaXN0L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Shared/Components/ShowOneErrand/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvU2hvd09uZUVycmFuZC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Shared/_CitizenLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DaXRpemVuTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Shared/_CoordinatorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Db29yZGluYXRvckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Shared/_InvestigatorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19JbnZlc3RpZ2F0b3JMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/Shared/_ManagerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19NYW5hZ2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

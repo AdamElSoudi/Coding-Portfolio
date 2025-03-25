@@ -1,0 +1,72 @@
+﻿<Properties StartupConfiguration="{CD4C6EBE-08AB-4C48-96D8-F27B34A8EEC8}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EnvironmentCrime PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnvironmentCrime/Models/DBInitializer.cs">
+    <Files>
+      <File FileName="EnvironmentCrime/Views/Shared/_CitizenLayout.cshtml" />
+      <File FileName="EnvironmentCrime/Views/Shared/_CoordinatorLayout.cshtml" />
+      <File FileName="EnvironmentCrime/Views/Citizen/Services.cshtml" Line="1" Column="1" />
+      <File FileName="EnvironmentCrime/Views/Citizen/Thanks.cshtml" />
+      <File FileName="EnvironmentCrime/Views/Citizen/Validate.cshtml" Line="1" Column="1" />
+      <File FileName="EnvironmentCrime/Views/Citizen/Faq.cshtml" />
+      <File FileName="EnvironmentCrime/Views/Coordinator/StartCoordinator.cshtml" />
+      <File FileName="EnvironmentCrime/Views/Coordinator/Thanks.cshtml" />
+      <File FileName="EnvironmentCrime/Views/Coordinator/Validate.cshtml" />
+      <File FileName="EnvironmentCrime/Views/Coordinator/ReportCoordinator.cshtml" />
+      <File FileName="EnvironmentCrime/Views/Coordinator/CrimeCoordinator.cshtml" />
+      <File FileName="EnvironmentCrime/Views/Home/Index.cshtml" />
+      <File FileName="EnvironmentCrime/Controllers/HomeController.cs" />
+      <File FileName="EnvironmentCrime/Views/Account/Login.cshtml" />
+      <File FileName="EnvironmentCrime/Program.cs" />
+      <File FileName="EnvironmentCrime/appsettings.json" />
+      <File FileName="EnvironmentCrime/Models/EFRepository.cs" />
+      <File FileName="EnvironmentCrime/Models/DBInitializer.cs" Line="13" Column="1" />
+      <File FileName="EnvironmentCrime/Controllers/CitizenController.cs" />
+      <File FileName="EnvironmentCrime/Models/AppIdentityDBContext.cs" />
+      <File FileName="EnvironmentCrime/Models/ApplicationDbContext.cs" />
+      <File FileName="EnvironmentCrime/Models/IndentityInitializer.cs" />
+      <File FileName="EnvironmentCrime/Models/POCO/MyErrand.cs" />
+      <File FileName="EnvironmentCrime/Models/IRepository.cs" />
+      <File FileName="EnvironmentCrime/Views/Investigator/CrimeInvestigator.cshtml" />
+      <File FileName="EnvironmentCrime/Views/Investigator/StartInvestigator.cshtml" />
+      <File FileName="EnvironmentCrime/Views/Manager/CrimeManager.cshtml" />
+      <File FileName="EnvironmentCrime/Views/Manager/StartManager.cshtml" />
+      <File FileName="EnvironmentCrime/Models/FakeRepository.cs" />
+      <File FileName="EnvironmentCrime/Models/POCO/ErrandStatus.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnvironmentCrime" expanded="True">
+            <Node name="EnvironmentCrime" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="POCO" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Citizen" expanded="True">
+                  <Node name="Services.cshtml" selected="True" />
+                </Node>
+                <Node name="Coordinator" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Investigator" expanded="True" />
+                <Node name="Manager" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="ShowOneErrand" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

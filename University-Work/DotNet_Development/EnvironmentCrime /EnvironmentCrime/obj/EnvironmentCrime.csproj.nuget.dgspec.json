@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/EnvironmentCrime.csproj": {}
+  },
+  "projects": {
+    "/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/EnvironmentCrime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/EnvironmentCrime.csproj",
+        "projectName": "EnvironmentCrime",
+        "projectPath": "/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/EnvironmentCrime.csproj",
+        "packagesPath": "/Users/adamelsoudi/.nuget/packages/",
+        "outputPath": "/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/EnvironmentCrime /EnvironmentCrime/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/adamelsoudi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

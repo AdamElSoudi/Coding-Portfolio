@@ -1,0 +1,30 @@
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/bin/Debug/net6.0/GuessTheNumber
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/bin/Debug/net6.0/GuessTheNumber.deps.json
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/bin/Debug/net6.0/GuessTheNumber.runtimeconfig.json
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/bin/Debug/net6.0/GuessTheNumber.dll
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/bin/Debug/net6.0/GuessTheNumber.pdb
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.csproj.AssemblyReference.cache
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.AssemblyInfoInputs.cache
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.AssemblyInfo.cs
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.csproj.CoreCompileInputs.cache
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.dll
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/obj/Debug/net6.0/refint/GuessTheNumber.dll
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.pdb
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.genruntimeconfig.cache
+/Users/adamelsoudi/Projects/GuessTheNumber/GuessTheNumber/obj/Debug/net6.0/ref/GuessTheNumber.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/bin/Debug/net6.0/GuessTheNumber
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/bin/Debug/net6.0/GuessTheNumber.deps.json
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/bin/Debug/net6.0/GuessTheNumber.runtimeconfig.json
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/bin/Debug/net6.0/GuessTheNumber.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/bin/Debug/net6.0/GuessTheNumber.pdb
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/obj/Debug/net6.0/GuessTheNumber.csproj.AssemblyReference.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/obj/Debug/net6.0/GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/obj/Debug/net6.0/GuessTheNumber.AssemblyInfoInputs.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/obj/Debug/net6.0/GuessTheNumber.AssemblyInfo.cs
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/obj/Debug/net6.0/GuessTheNumber.csproj.CoreCompileInputs.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/obj/Debug/net6.0/GuessTheNumber.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/obj/Debug/net6.0/refint/GuessTheNumber.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/obj/Debug/net6.0/GuessTheNumber.pdb
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/obj/Debug/net6.0/GuessTheNumber.genruntimeconfig.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber1/obj/Debug/net6.0/ref/GuessTheNumber.dll

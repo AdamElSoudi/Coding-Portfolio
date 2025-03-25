@@ -1,0 +1,30 @@
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.csproj.AssemblyReference.cache
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.AssemblyInfoInputs.cache
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.AssemblyInfo.cs
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.csproj.CoreCompileInputs.cache
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/bin/Debug/net6.0/GuessTheNumber2
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/bin/Debug/net6.0/GuessTheNumber2.deps.json
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/bin/Debug/net6.0/GuessTheNumber2.runtimeconfig.json
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/bin/Debug/net6.0/GuessTheNumber2.dll
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/bin/Debug/net6.0/GuessTheNumber2.pdb
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.dll
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/obj/Debug/net6.0/refint/GuessTheNumber2.dll
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.pdb
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.genruntimeconfig.cache
+/Users/adamelsoudi/Projects/GuessTheNumber2/GuessTheNumber2/obj/Debug/net6.0/ref/GuessTheNumber2.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/bin/Debug/net6.0/GuessTheNumber2
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/bin/Debug/net6.0/GuessTheNumber2.deps.json
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/bin/Debug/net6.0/GuessTheNumber2.runtimeconfig.json
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/bin/Debug/net6.0/GuessTheNumber2.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/bin/Debug/net6.0/GuessTheNumber2.pdb
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.csproj.AssemblyReference.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.AssemblyInfoInputs.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.AssemblyInfo.cs
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.csproj.CoreCompileInputs.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/obj/Debug/net6.0/refint/GuessTheNumber2.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.pdb
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/obj/Debug/net6.0/GuessTheNumber2.genruntimeconfig.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/(.NET-Programmering)/Uppgifter/GuessTheNumber2/obj/Debug/net6.0/ref/GuessTheNumber2.dll
