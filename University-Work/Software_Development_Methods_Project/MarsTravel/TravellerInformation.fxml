@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="700.0" minWidth="1000.0" prefHeight="700.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MarsTravel.TravellerInformation_Controller">
+   <children>
+      <Label fx:id="lblTravellerInfoQuestion" alignment="CENTER" contentDisplay="CENTER" layoutX="-7.0" layoutY="42.0" minWidth="1000.0" prefHeight="46.0" prefWidth="83.0" text="Resenärsuppgifter:" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="40.0">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Button fx:id="btnBack" layoutX="50.0" layoutY="640.0" minHeight="20.0" minWidth="85.0" mnemonicParsing="false" onAction="#btnBack" text="Tillbaka" AnchorPane.bottomAnchor="33.2" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Button>
+      <AnchorPane layoutX="100.0" layoutY="120.0" minWidth="800.0" prefHeight="469.0" prefWidth="800.0" AnchorPane.bottomAnchor="110.0" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" AnchorPane.topAnchor="120.0">
+         <children>
+            <TextField fx:id="inputFirstName" prefHeight="40.0" prefWidth="309.0" promptText="Förnamn" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="inputLastName" layoutX="378.0" prefHeight="40.0" prefWidth="474.0" promptText="Efternamn" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="inputEmail" layoutY="60.0" prefHeight="40.0" prefWidth="546.0" promptText="Email" AnchorPane.leftAnchor="0.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="inputPersonalNumber" layoutX="564.0" layoutY="60.0" prefHeight="40.0" prefWidth="236.0" promptText="Personnummer" AnchorPane.rightAnchor="0.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="inputAddress" layoutY="180.0" prefHeight="40.0" prefWidth="800.0" promptText="Adress" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="120.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </TextField>
+            <Separator fx:id="separator" layoutY="180.0" minWidth="800.0" prefWidth="200.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+            <Label fx:id="lblHealthyQuestion" layoutY="200.0" text="Fullt frisk?" AnchorPane.leftAnchor="0.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <CheckBox fx:id="chbHealthyYes" layoutY="230.0" mnemonicParsing="false" onAction="#healthy" text="Ja" AnchorPane.leftAnchor="0.0">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </CheckBox>
+            <CheckBox fx:id="chbHealthyNo" layoutX="70.0" layoutY="230.0" mnemonicParsing="false" onAction="#healthy" text="Nej" AnchorPane.leftAnchor="70.0">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </CheckBox>
+            <Label fx:id="lblChronicPain" layoutY="270.0" text="Kronisk krämpa?" AnchorPane.leftAnchor="0.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <CheckBox fx:id="chbChronicPainYes" layoutY="300.0" mnemonicParsing="false" onAction="#chronicPain" text="Ja" AnchorPane.leftAnchor="0.0">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </CheckBox>
+            <CheckBox fx:id="chbChronicPainNo" layoutX="70.0" layoutY="300.0" mnemonicParsing="false" onAction="#chronicPain" text="Nej" AnchorPane.leftAnchor="70.0">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </CheckBox>
+            <TextField fx:id="inputChronicPain" alignment="TOP_LEFT" layoutY="330.0" minHeight="60.0" minWidth="380.0" prefWidth="390.0" promptText="Om ja, vilka?" AnchorPane.leftAnchor="0.0">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </TextField>
+            <Label fx:id="lblMedication" layoutX="410.0" layoutY="270.0" text="Regelbunden medicinintag?">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <CheckBox fx:id="chbMedsYes" layoutX="410.0" layoutY="300.0" mnemonicParsing="false" onAction="#medicine" prefHeight="3.0" prefWidth="49.0" text="Ja">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </CheckBox>
+            <CheckBox fx:id="chbMedsNo" layoutX="480.0" layoutY="300.0" mnemonicParsing="false" onAction="#medicine" text="Nej">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </CheckBox>
+            <TextField fx:id="inputMedicine" alignment="TOP_LEFT" layoutX="411.0" layoutY="330.0" minHeight="60.0" minWidth="380.0" prefHeight="60.0" prefWidth="390.0" promptText="Om ja, vilka?" AnchorPane.rightAnchor="0.0">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </TextField>
+            <CheckBox fx:id="chbHealthInsuranceYes" layoutY="440.0" mnemonicParsing="false" onAction="#healthInsurance" text="Ja" AnchorPane.leftAnchor="0.0">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </CheckBox>
+            <Label fx:id="lblHealthInsurancePrice" alignment="BOTTOM_LEFT" layoutX="150.0" layoutY="413.0" text="från 50 000 kr">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <Label fx:id="lblHealthInsurance" layoutY="410.0" text="Hälsoförsäkring?" AnchorPane.leftAnchor="0.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <CheckBox fx:id="chbHealthInsuranceNo" layoutX="70.0" layoutY="440.0" mnemonicParsing="false" onAction="#healthInsurance" text="Nej">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </CheckBox>
+            <Label layoutX="410.0" layoutY="410.0" text="Betalkort summa:">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <TextField fx:id="inputCreditCard" layoutX="410.0" layoutY="436.0" promptText="kr">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </TextField>
+            <Label layoutX="570.0" layoutY="413.0" text="minst 20 000kr">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <Button fx:id="btnNext" layoutX="814.0" layoutY="620.0" minHeight="20.0" minWidth="85.0" mnemonicParsing="false" onAction="#btnNext" text="Nästa" AnchorPane.bottomAnchor="33.2" AnchorPane.rightAnchor="40.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnCancel" layoutX="72.0" layoutY="57.0" mnemonicParsing="false" onAction="#cancelBooking" text="Avbryt bokning" textFill="RED" AnchorPane.leftAnchor="40.0" AnchorPane.topAnchor="33.2">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Label fx:id="lblNotEnough" layoutX="513.0" layoutY="600.0" textFill="RED">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
