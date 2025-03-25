@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="sv">
+    <head>
+        <title>Calculator</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
+        <link href="../stylesheets/css/main.css" rel="stylesheet"/>
+        <link href="../stylesheets/css/normalize.css" rel="stylesheet"/>
+        <link rel="shortcut icon" href="../images/LogoSample_ByTailorBrands.jpg">
+    </head>
+
+    <body>
+      <div id="calculator">
+
+        <header> 
+          <picture>
+            <img src="/assets/images/LogoSample_ByTailorBrands.jpg" alt="Calorie-Calculator logo" id="logo" width="150" height="150"/>
+          </picture>
+          <h1> Calculator </h1>
+
+          <nav> 
+              <ul id="nav_active">
+                <li> <a href="../../index.html"> Home </a> </li>
+                <li> <a href="../html/calculator.html"> Calculator </a> </li>
+                <li> <a href="../html/information.html"> Information </a> </li>
+                <li> <a href="../html/ready-meals.html"> Ready-Meals </a> </li>
+                <li> <a href="../html/contact.html"> Contact Us </a> </li>
+              </ul>
+          </nav>
+
+          </header>
+
+          <main>
+
+            <h2>Find the food items you are looking for:</h2>
+
+            <p id="description">Search for the food that you want to know the nutritional value for. You can specify the amount by writing either the amount like "10 eggs" or "150g chicken" for example. If you want to search for multiple food products at the same time, either write "and" or put a comma with a space(, ) inbetween. </p>
+
+              <form> 
+                <input type="text" placeholder="search for food" id="bar" class="center"> 
+              </form>
+
+
+              <section>
+                
+                  <h4>This meal will come out to:</h4>
+                  <div id="tableC" style="overflow-x:auto">
+
+                  <table class="dataTable">
+                    <thead class="tableHead">
+                      <tr>
+                        <th>Name</th>
+                        <th>Calories</th>
+                        <th>Serving Size(g)</th>
+                        <th>Fat(g)</th>
+                        <th>Saturated Fat(g)</th>
+                        <th>Protein(g)</th>
+                        <th>Sodium(mg)</th>
+                        <th>Potassium(mg)</th>
+                        <th>Cholesterol(mg)</th>
+                        <th>Carbohydrates(g)</th>
+                        <th>Fiber(g)</th>
+                        <th>Sugar(g)</th>
+                      </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                      
+                    </tbody>
+                  </table>
+                  
+                </div> <!--end tableC-->
+
+              <form>
+                <p> 
+                  <input type="submit" value="Clear Result" id="clear_button"/> 
+                </p>
+              </form>
+
+              </section>
+          </main>
+
+          <script src="/assets/js/main.js" type="module"></script>
+      </div> <!-- End calculator-->
+
+        <div id="copyright_calc">
+          <footer>
+            <p>&copy; <em> copyright 2022</em> | Calorie-Calculator</p>
+          </footer>
+        </div> <!--end copyright-->
+
+      </body>
+  </html>

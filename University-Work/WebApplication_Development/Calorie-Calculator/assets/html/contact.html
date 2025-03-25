@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="sv">
+    <head>
+        <title>Contact Us</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
+        <link href="../stylesheets/css/main.css" rel="stylesheet"/>
+        <link href="../stylesheets/css/normalize.css" rel="stylesheet"/>
+        <link rel="shortcut icon" href="../images/LogoSample_ByTailorBrands.jpg">
+	      <script src="/assets/js/main.js" type="module"></script>
+    </head>
+
+    <body>
+      <div id="contact">
+
+        <header> 
+          <picture>
+            <img src="/assets/images/LogoSample_ByTailorBrands.jpg" alt="Calorie-Calculator logo" id="logo" width="150" height="150"/>
+          </picture>
+
+          <h1> Contact Us </h1>
+
+          <nav> 
+              <ul>
+                <li> <a href="../../index.html"> Home </a> </li>
+                <li> <a href="../html/calculator.html"> Calculator </a> </li>
+                <li> <a href="../html/information.html"> Information </a> </li>
+                <li> <a href="../html/ready-meals.html"> Ready-Meals </a> </li>
+                <li> <a href="../html/contact.html"> Contact Us </a> </li>
+              </ul>
+          </nav>
+
+        </header>
+        
+          <main>
+            <section id="contact_form">
+              <h2>Thank You for Contacting Us</h2>
+              <p>
+                Information followed by an asterisk (*) is required.
+              </p>
+            </section>
+              <fieldset id="form">
+                <legend>Fill in your Information:</legend>
+                <form method="post" action="../../index.html">
+                  <p>
+                    <label for="Name"> Namn*: </label>
+                    <input type="text" name="name" id="Name" required />
+                  </p>
+                  <p>
+                    <label for="Email"> Email*: </label>
+                    <input type="email" name="email" id= "Email" required pattern="\w+@\w+.+\w"/>
+                  </p>
+                  <p>
+                    <label for="Comment"> Message: </label>
+                    <textarea name="message" rows="5" cols="30" id="Comment"> </textarea>
+                  </p>
+
+                  <p> 
+                    <input type="submit" value="Send"/> 
+                  </p>
+
+                </form>
+                
+              </fieldset>
+          </main>
+
+          </div> <!-- end contact-->
+
+          <div id="copyright">
+            <footer>
+              <p>&copy; <em> copyright 2022</em> | Calorie-Calculator</p>
+            </footer>
+        </div> <!--end copyright-->

@@ -1,0 +1,336 @@
+h1{
+  color:forestgreen;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.075em;
+  position: static;
+  text-align: center;
+}
+
+h2{
+  margin-left: 1%;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.075em;
+  position: static;
+}
+
+.readyMeals h3{
+  margin-left: 2.8%;
+}
+
+h2{
+  color: forestgreen;
+  margin-left: 1%;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.075em;
+  position: static;
+  text-align: center;
+}
+
+h3{
+  color: #000;
+  margin-left: 1%;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.075em;
+  position: static;
+  text-align: center;
+}
+
+h4{
+  color: #000;
+  margin-left: 1%;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.075em;
+  position: static;
+  text-align: center;
+}
+
+#sources h2{
+  text-align: left;
+  margin-left: 2.5%;
+}
+
+#home h1, #calculator h1, #information h1, #meals h1, #contact h1{
+  margin-left: 1%;
+}
+
+@media(max-width: 768px){
+#ready_meals_header{
+  margin-bottom: 20%;
+}
+}
+
+#logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  margin-left: 1%;
+  margin-right: 1%;
+  text-align: center;
+  font-family: "Merriweather", Georgia, serif;
+}
+
+#contact p{
+  text-align: left;
+}
+
+#contact footer p{
+  text-align: center;
+}
+
+#copyright footer{
+  text-align: center;
+}
+
+#text p{
+  background-color: #fff;
+  padding: 0.5%;
+  border: 3px solid black;
+}
+
+.info p{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+body{
+  background-color: #fff;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-bottom: 2.8%;
+  padding: 0%;
+  overflow: hidden;
+  background-color:black;
+  justify-content: center;
+  display:block
+}
+@media(min-width: 768px){
+nav li{
+  float: left;
+  display: inline;
+  width: 20%;
+}
+}
+
+nav li{
+  float: left;
+  display: inline;
+}
+
+
+nav li a{
+  display: block;
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav a:hover, nav a:focus{
+  text-decoration: underline;
+  font-weight:bold;
+}
+
+#text p{
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#home_page_img img{
+  margin-bottom: 6.6%;
+}
+
+@media(min-width: 425px){
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+picture{
+  margin-left: 1%;
+}
+
+@media(min-width: 1024px){
+article{
+  Display: Grid;
+  justify-content: center;
+  grid-template-columns: 33% 33% 33%;
+}
+
+article p{
+  background-color: #fff;
+  padding: 0.5%;
+  border: 3px solid black;
+}
+}
+
+@media(min-width: 1024px){
+.info img {
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+}
+@media(max-width: 1023px){
+.info img {
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+}
+
+.info h2{
+  text-align: center;
+}
+
+.important{
+  color: black;
+  font-weight: bolder;
+}
+#meal1 h2, #meal2 h2, #meal3 h2{
+color: #000;
+}
+#meal1 img, #meal2 img, #meal3 img{
+  width: 50%;
+  height: auto;
+  margin-left: 25%;
+  margin-right: auto;
+}
+
+#meal1 ul, #meal2 ul, #meal3 ul{
+margin-left: 21%;
+}
+
+#meal1 table, #meal2 table, #meal3 table{
+margin-left: 30%;
+}
+
+#meal1 tbody, #meal2 table, #meal3 table{
+border: #000;
+}
+
+
+@media(min-width: 1024px){
+.readyMeals{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+}
+
+#bar{
+  width: auto;
+}
+
+.apiTable{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+@media(max-width: 768px){
+#tableC{
+  margin-left: 3%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+}
+}
+
+#tableC{
+  width:70%; 
+  margin-left:15%; 
+  margin-right:15%;
+}
+
+@media(min-width: 2560px){
+#tableC{
+  margin-left: 25%;
+  }
+}
+
+#clear_button{
+  margin-bottom: 19%;
+}
+
+#table1 table, #table2 table, #table3 table{
+  margin-right: 30%;
+  margin-bottom: 10%;
+}
+
+#table1 th, #table2 th, #table3 th{
+  background-color: darkolivegreen;
+  color: #fff;
+  border: 3px solid black;
+  padding: 5px;
+}
+
+#table1 td, #table2 td, #table3 td{
+  background-color: #fff;
+  color: black;
+  border: 3px solid black;
+  padding: 5px;
+}
+
+#calculator th{
+  background-color: darkolivegreen;
+  color: #fff;
+  border: 3px solid black;
+  padding: 5px;
+}
+
+#calculator td{
+  background-color: #fff;
+  color: black;
+  border: 3px solid black;
+  padding: 5px;
+}
+
+footer{
+  background-color: lightgrey;
+  color: #000;
+  text-align: center;
+  padding: 1%;
+  height: 2.5rem;
+}
+
+#form{
+  margin-bottom: 12%;
+}
+
+#description{
+  background-color: #fff;
+  padding: 0.5%;
+  border: 3px solid black;
+  text-align: center;
+}
+
+#contact_form h2{
+  text-align: left;
+}
+
+#copyright_calc{
+  position:relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}

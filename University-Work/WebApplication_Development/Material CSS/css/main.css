@@ -1,0 +1,288 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url(/fonts/SourceSansPro/SourceSansPro-Bold.ttf);
+}
+@font-face {
+  font-family: 'Merriweather';
+  src: url(/fonts/Merriweather/Merriweather-Regular.ttf);
+}
+@font-face {
+  font-family: 'Beau Rivage';
+  src: url(/fonts/Beau_Rivage/BeauRivage-Regular.ttf);
+}
+
+html{
+  font-size: 105%;
+}
+
+body{
+  font-family:  "Merriweather", Georgia, serif;
+  background-color:gray;
+  margin-top: 5%;
+  width: 100%;
+}
+
+#container p{
+  font-family: "Merriweather", Georgia, serif;
+}
+
+#container nav ul {
+  list-style-type: none;
+  margin-bottom: 2.8%;
+  padding: 0%;
+  overflow: hidden;
+  background-color:aliceblue;
+  justify-content: center;
+  display:block
+}
+
+#container nav li{
+  float: left;
+  display: inline;
+}
+
+#container nav li a{
+  display: block;
+  color: cadetblue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+h1, h2, h3{
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.075em;
+  position: static;
+}
+
+h1{
+  font-size: 2.25rem;
+  text-transform: uppercase;
+  color:#f5f5f5;
+  text-align: center;
+  border: 3px solid aliceblue;
+  padding: 0%;
+  background-color: cadetblue;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+h2{
+  font-size: 3rem;
+  line-height: 1.1;
+  color:aliceblue;
+}
+
+h3{
+  font-size: 1rem;
+  color:#212931;
+}
+
+#story{
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  color:#212931;
+  text-align: center;
+}
+
+ img{
+  margin-bottom: 0%;
+  border: 3px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+main p{
+  font-size: 1rem;
+  color:#212931;
+  text-align: left;
+  margin-left: 15%;
+  margin-right: 15%;
+  border: 3px solid black;
+  padding: 1%;
+  background-color: #f5f5f5;
+}
+
+#story h3{
+  font-size: 1.5rem;
+  margin-top: 5%;
+  margin:auto;
+  color:aliceblue;
+  margin-left: 1.5%;
+}
+
+main{
+  background-color:cadetblue;
+  margin-top: -3%;
+  margin-right: -1%;
+  padding-bottom: 5%;
+  width: 100%;
+  max-width: inherit;
+}
+
+#story img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#products p{
+  display: grid;
+  grid-template-columns: 2fr;
+  grid-column-start: 2;
+  grid-column-end: 2;
+}
+
+#products h2{
+  margin-left: 1.5%;
+}
+
+
+#container header{
+  text-align: center;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  color:#212931;
+}
+
+#classes{
+  text-align: justify;
+  margin-right: 3%;
+  margin-left: 3%;
+  margin-bottom: 5%;
+}
+
+#classes{
+  text-align: center;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: aliceblue;
+}
+
+#classes {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+  }
+  th {
+    background-color: #2c5076;
+    color: white;
+  }
+  
+  th, td {
+    width: 150px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+  }
+
+#newsletter h2{
+  font-size: 3rem;
+  line-height: 1.1;
+  text-align:center;
+  color:#f5f5f5;
+}
+
+#newsletter h3{
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.075em;
+  color:#212931;
+  text-align:left;
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+
+#newsletter p{
+  text-align:left;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  color:#212931;
+  text-align:center;
+  margin-top: -2.5%;
+}
+
+#newsletter form{
+  list-style: none;
+  margin: auto;
+  width: 300px;
+  border: 3px solid lightblue ;
+  background-color: aliceblue;
+}
+
+#newsletter ul{
+  list-style: none;
+  margin-left: 0;
+}
+
+img{
+  max-width: 100% ;
+}
+
+@media(min-width: 1024px){
+article{
+  Display: Grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-gap: 20px 20px;
+}
+
+article, h2{
+  grid-row: 2/2;
+  grid-column: 1/2;
+}
+
+article, h3{
+  padding: 2%;
+  grid-row: 2/2;
+  grid-column: 1/2;
+}
+
+article, img{
+  grid-row: 2/2;
+  grid-column: 2/3;
+}
+
+#products p{
+  grid-row: 2/2;
+  grid-column: 3/4;
+  padding: 2%;
+  }
+}
+
+@media(max-width: 1024px){
+article h2 + h3{
+  margin-left: 3%;
+  text-align: center;
+  }
+  
+  article h2{
+  text-align: center;
+  }
+}
+
+#products{
+  width: 100%;
+}
+
+
+footer{
+  text-align: center;
+  color:#212931;
+  font: 300 1rem/1.375 Merriweather, Georgia, serif;
+  background-color:lightgray;
+  margin-left: -0.5%;
+  margin-right: -0.5%;
+  margin-bottom: -1.5%;
+  margin-top: 2.5%;
+}
+
+footer p{
+  font-size: 0.8rem;
+  margin: auto;
+}
