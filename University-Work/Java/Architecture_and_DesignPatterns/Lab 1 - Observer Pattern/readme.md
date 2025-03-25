@@ -1,1 +1,0 @@
-Se lab_raining_calculator_beskrivning.pdf för laborations beskrivning.
