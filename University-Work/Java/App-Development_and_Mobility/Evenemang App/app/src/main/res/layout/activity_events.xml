@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!--<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">-->
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="208dp"
+            android:layout_height="53dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="16dp"
+            android:text="Events"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="48sp"
+            app:layout_constraintBottom_toTopOf="@+id/view"
+            app:layout_constraintEnd_toEndOf="@+id/view"
+            app:layout_constraintStart_toStartOf="@+id/view"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.309" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="39dp"
+            android:layout_height="32dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="30dp"
+            app:layout_constraintBottom_toTopOf="@+id/view"
+            app:layout_constraintEnd_toStartOf="@+id/textView"
+            app:layout_constraintHorizontal_bias="0.147"
+            app:layout_constraintStart_toStartOf="@+id/view"
+            app:layout_constraintTop_toTopOf="@+id/textView"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@mipmap/menu_foreground" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="46dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="30dp"
+            app:layout_constraintBottom_toTopOf="@+id/view"
+            app:layout_constraintEnd_toEndOf="@+id/view"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toEndOf="@+id/textView"
+            app:layout_constraintTop_toTopOf="@+id/textView"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@mipmap/filter_foreground" />
+
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="384dp"
+        android:layout_height="602dp"
+        android:background="@android:color/holo_blue_light"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <LinearLayout
+            android:id="@+id/post1"
+            android:layout_width="358dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="@+id/view"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/view"
+            app:layout_constraintTop_toTopOf="@+id/view">
+        </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="381dp"
+        android:layout_height="554dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="176dp"
+        android:layout_marginBottom="32dp"
+        app:layout_constraintBottom_toBottomOf="@+id/view"
+        app:layout_constraintEnd_toEndOf="@+id/view"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/view"
+        app:layout_constraintTop_toTopOf="@+id/view" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+<!--</ScrollView>-->

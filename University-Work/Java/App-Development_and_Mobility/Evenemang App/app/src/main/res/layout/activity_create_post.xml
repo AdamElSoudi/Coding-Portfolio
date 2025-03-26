@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/createpost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".CreatePostActivity">
+
+
+        <View
+            android:id="@+id/view4"
+            android:layout_width="418dp"
+            android:layout_height="1152dp"
+            android:background="@color/light_blue"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <View
+            android:id="@+id/view5"
+            android:layout_width="372dp"
+            android:layout_height="1101dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="22dp"
+            android:layout_marginBottom="25dp"
+            android:background="@color/white"
+            app:layout_constraintBottom_toBottomOf="@+id/view4"
+            app:layout_constraintEnd_toEndOf="@+id/view4"
+            app:layout_constraintStart_toStartOf="@+id/view4"
+            app:layout_constraintTop_toTopOf="@+id/view4" />
+
+        <ImageView
+            android:id="@+id/image_uploadView"
+            android:layout_width="150dp"
+            android:layout_height="149dp"
+            android:layout_marginStart="203dp"
+            android:layout_marginTop="581dp"
+            android:layout_marginEnd="19dp"
+            android:layout_marginBottom="371dp"
+            android:contentDescription="@string/uploadedimage"
+            android:onClick="onImageClick"
+            android:src="@drawable/uploaded_images"
+            app:layout_constraintBottom_toBottomOf="@+id/view5"
+            app:layout_constraintEnd_toEndOf="@+id/view5"
+            app:layout_constraintStart_toStartOf="@+id/view5"
+            app:layout_constraintTop_toTopOf="@+id/view5" />
+
+        <Button
+            android:id="@+id/buttonPost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_marginStart="265dp"
+            android:layout_marginTop="1022dp"
+            android:layout_marginEnd="19dp"
+            android:layout_marginBottom="31dp"
+            android:text="Post"
+            app:layout_constraintBottom_toBottomOf="@+id/view5"
+            app:layout_constraintEnd_toEndOf="@+id/view5"
+            app:layout_constraintStart_toStartOf="@+id/view5"
+            app:layout_constraintTop_toTopOf="@+id/view5" />
+
+        <Spinner
+            android:id="@+id/spinner_association"
+            android:layout_width="354dp"
+            android:layout_height="55dp"
+            android:layout_marginStart="7dp"
+            android:layout_marginTop="775dp"
+            android:layout_marginEnd="11dp"
+            android:layout_marginBottom="271dp"
+            android:entries="@array/association_array"
+            app:layout_constraintBottom_toBottomOf="@+id/view5"
+            app:layout_constraintEnd_toEndOf="@+id/view5"
+            app:layout_constraintStart_toStartOf="@+id/view5"
+            app:layout_constraintTop_toTopOf="@+id/view5" />
+
+        <Spinner
+            android:id="@+id/spinner_time"
+            android:layout_width="353dp"
+            android:layout_height="49dp"
+            android:entries="@array/time_array"
+            app:layout_constraintBottom_toBottomOf="@+id/view5"
+            app:layout_constraintEnd_toEndOf="@+id/view5"
+            app:layout_constraintHorizontal_bias="0.421"
+            app:layout_constraintStart_toStartOf="@+id/view5"
+            app:layout_constraintTop_toTopOf="@+id/view5"
+            app:layout_constraintVertical_bias="0.069" />
+
+        <EditText
+            android:id="@+id/editTextTitle"
+            android:layout_width="355dp"
+            android:layout_height="44dp"
+            android:layout_marginStart="7dp"
+            android:layout_marginTop="22dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="1035dp"
+            android:hint="Enter Title"
+            android:textColor="#000000"
+            app:layout_constraintBottom_toBottomOf="@+id/view5"
+            app:layout_constraintEnd_toEndOf="@+id/view5"
+            app:layout_constraintStart_toStartOf="@+id/view5"
+            app:layout_constraintTop_toTopOf="@+id/view5" />
+
+        <EditText
+            android:id="@+id/editTextAddress"
+            android:layout_width="353dp"
+            android:layout_height="47dp"
+            android:layout_marginStart="7dp"
+            android:layout_marginTop="447dp"
+            android:layout_marginEnd="12dp"
+            android:layout_marginBottom="608dp"
+            android:hint="Enter Address"
+            android:textColor="#000000"
+            app:layout_constraintBottom_toBottomOf="@+id/view5"
+            app:layout_constraintEnd_toEndOf="@+id/view5"
+            app:layout_constraintStart_toStartOf="@+id/view5"
+            app:layout_constraintTop_toTopOf="@+id/view5" />
+
+        <EditText
+            android:id="@+id/editTextPrice"
+            android:layout_width="354dp"
+            android:layout_height="48dp"
+            android:layout_marginStart="7dp"
+            android:layout_marginTop="513dp"
+            android:layout_marginEnd="11dp"
+            android:layout_marginBottom="540dp"
+            android:hint="Enter Price"
+            android:textColor="#000000"
+            app:layout_constraintBottom_toBottomOf="@+id/view5"
+            app:layout_constraintEnd_toEndOf="@+id/view5"
+            app:layout_constraintStart_toStartOf="@+id/view5"
+            app:layout_constraintTop_toTopOf="@+id/view5" />
+
+        <EditText
+            android:id="@+id/editTextDesc"
+            android:layout_width="356dp"
+            android:layout_height="140dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="860dp"
+            android:layout_marginEnd="11dp"
+            android:layout_marginBottom="101dp"
+            android:hint="Enter Description"
+            android:textColor="#000000"
+            app:layout_constraintBottom_toBottomOf="@+id/view5"
+            app:layout_constraintEnd_toEndOf="@+id/view5"
+            app:layout_constraintStart_toStartOf="@+id/view5"
+            app:layout_constraintTop_toTopOf="@+id/view5" />
+
+        <Button
+            android:id="@+id/upload_ImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="11dp"
+            android:layout_marginTop="641dp"
+            android:layout_marginEnd="214dp"
+            android:layout_marginBottom="412dp"
+            android:text="Upload Image"
+            app:layout_constraintBottom_toBottomOf="@+id/view5"
+            app:layout_constraintEnd_toEndOf="@+id/view5"
+            app:layout_constraintStart_toStartOf="@+id/view5"
+            app:layout_constraintTop_toTopOf="@+id/view5" />
+
+        <CalendarView
+            android:id="@+id/calendarView"
+            android:layout_width="356dp"
+            android:layout_height="307dp"
+            android:layout_marginStart="7dp"
+            android:layout_marginTop="129dp"
+            android:layout_marginEnd="9dp"
+            android:layout_marginBottom="665dp"
+            app:layout_constraintBottom_toBottomOf="@+id/view5"
+            app:layout_constraintEnd_toEndOf="@+id/view5"
+            app:layout_constraintStart_toStartOf="@+id/view5"
+            app:layout_constraintTop_toTopOf="@+id/view5" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
