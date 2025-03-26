@@ -1,7 +1,7 @@
 # Databases 2 - Lab 2: Users, Friends, and Hobbies Database
 
 ## Overview
-This repository contains the SQL scripts for **Databases 2 - Lab 2** at university.
+This repository contains the SQL scripts for **Databases 2 - Lab 2** at university. The `03_lab_queries.sql` is my own work, the tables and data was provided by the university.
 
 ## How to Run
 Follow the steps below to set up and run the lab scripts:
