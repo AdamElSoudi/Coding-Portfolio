@@ -7,7 +7,7 @@ This repository contains the SQL scripts for **Databases 2 - Lab 2** at universi
 Follow the steps below to set up and run the lab scripts:
 
 ### Step 1: Create Tables
-Run the `01_create_tables.sql` file in your MySQL Workbench to create the necessary tables for the movie database.
+Run the `01_create_tables.sql` file in your MySQL Workbench to create the necessary tables for the database.
 
 ### Step 2: Insert Sample Data
 Run the `02_insert_data.sql` file to insert the sample data into the created tables.
