@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="591.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.MainWindowController">
+
+      <CheckBox fx:id="cbRubberyLang" layoutX="31.0" layoutY="35.0" mnemonicParsing="false" onAction="#handleCbChange" prefHeight="25.0" prefWidth="150" text="Rubbery languages" />
+      <CheckBox fx:id="cbBase64" layoutX="31.0" layoutY="67.0" mnemonicParsing="false" onAction="#handleCbChange" prefHeight="25.0" prefWidth="93.0" text="Base64" />
+      <CheckBox fx:id="cbSuperImp" layoutX="31.0" layoutY="98.0" mnemonicParsing="false" onAction="#handleCbChange" prefHeight="25.0" prefWidth="150" text="Super implementation" />
+      <TextField fx:id="txtMessage" layoutX="31.0" layoutY="159.0" prefHeight="25.0" prefWidth="338.0" />
+      <Label layoutX="31.0" layoutY="142.0" prefHeight="20.0" prefWidth="250" text="Txt message to insert to file" />
+      <Button  layoutX="35.0" layoutY="200.0" mnemonicParsing="false" onAction="#handleInsertButton" prefHeight="25.0" prefWidth="93.0" text="Insert to file" />
+
+</AnchorPane>
