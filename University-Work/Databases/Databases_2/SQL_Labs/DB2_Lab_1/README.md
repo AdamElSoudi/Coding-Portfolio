@@ -1,7 +1,8 @@
 # Databases 2 - Lab 1: Movie Database
 
 ## Overview
-This repository contains the SQL scripts for **Databases 2 - Lab 1** at university. The lab focuses on creating a movie database schema, inserting sample data, and writing SQL queries for various tasks such as creating views, joining tables, and aggregating data.
+This repository contains the SQL scripts for **Databases 2 - Lab 1** at university. The lab focuses on creating a movie database schema, inserting sample data, and writing SQL queries for various tasks such as creating views, joining tables, and aggregating data. The `03_lab_queries.sql` is my own work, the tables and data was provided by the university.
+
 
 ## How to Run
 Follow the steps below to set up and run the lab scripts:
