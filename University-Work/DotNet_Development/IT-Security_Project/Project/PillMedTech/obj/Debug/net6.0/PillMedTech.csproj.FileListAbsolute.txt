@@ -1,0 +1,162 @@
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.AssemblyReference.cache
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfoInputs.cache
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfo.cs
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.CoreCompileInputs.cache
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cache
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cs
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.AssemblyReference.cache
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfoInputs.cache
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfo.cs
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.CoreCompileInputs.cache
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.MvcApplicationPartsAssemblyInfo.cache
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cache
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cs
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/appsettings.Development.json
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/appsettings.json
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.staticwebassets.runtime.json
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.deps.json
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.runtimeconfig.json
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.pdb
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Humanizer.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets.build.json
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets.development.json
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/scopedcss/Views/Shared/_MainLayout.cshtml.rz.scp.css
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/scopedcss/bundle/PillMedTech.styles.css
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/scopedcss/projectbundle/PillMedTech.bundle.scp.css
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.CopyComplete
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/refint/PillMedTech.dll
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.pdb
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.genruntimeconfig.cache
+/Users/adamelsoudi/Desktop/PillMedTech/PillMedTech/obj/Debug/net6.0/ref/PillMedTech.dll
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/appsettings.Development.json
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/appsettings.json
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.staticwebassets.runtime.json
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.dll
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.pdb
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.AssemblyReference.cache
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfoInputs.cache
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfo.cs
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.CoreCompileInputs.cache
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.MvcApplicationPartsAssemblyInfo.cache
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cache
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cs
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets.build.json
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets.development.json
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/scopedcss/Views/Shared/_MainLayout.cshtml.rz.scp.css
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/scopedcss/bundle/PillMedTech.styles.css
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/scopedcss/projectbundle/PillMedTech.bundle.scp.css
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.dll
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/refint/PillMedTech.dll
+/Users/adamelsoudi/Desktop/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.pdb
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/appsettings.Development.json
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/appsettings.json
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.staticwebassets.runtime.json
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.pdb
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.AssemblyReference.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfoInputs.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfo.cs
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.CoreCompileInputs.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.MvcApplicationPartsAssemblyInfo.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cs
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets.build.json
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets.development.json
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/scopedcss/Views/Shared/_MainLayout.cshtml.rz.scp.css
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/scopedcss/bundle/PillMedTech.styles.css
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/scopedcss/projectbundle/PillMedTech.bundle.scp.css
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/refint/PillMedTech.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.pdb
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.deps.json
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.runtimeconfig.json
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Humanizer.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.CopyComplete
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.genruntimeconfig.cache
+/Users/adamelsoudi/Desktop/Systemvetenskap & Programvaruteknik/Year 2/IT-Säkerhet/Uppgifter/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/ref/PillMedTech.dll
