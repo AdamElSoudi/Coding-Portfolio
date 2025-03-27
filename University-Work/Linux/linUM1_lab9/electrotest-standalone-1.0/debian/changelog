@@ -1,0 +1,6 @@
+electrotest-standalone (1.0-1) UNRELEASED; urgency=low
+
+  * Initial release 
+  * Fake bug closure (Closes: #123456)
+
+ -- Adam <adamsirrety@gmail.com>  Sun, 26 May 2024 14:44:42 +0000

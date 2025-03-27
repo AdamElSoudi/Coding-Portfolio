@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Sun, 26 May 2024 14:44:42 +0000
+Source: electrotest-standalone
+Binary: electrotest-standalone
+Built-For-Profiles: noudeb
+Architecture: source arm64
+Version: 1.0-1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: Adam <adamsirrety@gmail.com>
+Changed-By: Adam <adamsirrety@gmail.com>
+Description:
+ electrotest-standalone - auto-generated package by debmake
+Closes: 123456
+Changes:
+ electrotest-standalone (1.0-1) UNRELEASED; urgency=low
+ .
+   * Initial release
+   * Fake bug closure (Closes: #123456)
+Checksums-Sha1:
+ b6cbc2365ff45fa58d996219ff02b516196443f1 919 electrotest-standalone_1.0-1.dsc
+ 5d68324b01670b30c5f7d6da20d77b2b4644ccf5 2882 electrotest-standalone_1.0.orig.tar.gz
+ 1ac520b3619f7f7ba21576dbdb31379ad45eb95c 1440 electrotest-standalone_1.0-1.debian.tar.xz
+ e8c3555699f8d9cd9a440f45dc0969ecc1555c9e 6622 electrotest-standalone_1.0-1_arm64.buildinfo
+ bef7492dac4f314cdda3bafe26576c6c9eae5946 4682 electrotest-standalone_1.0-1_arm64.deb
+Checksums-Sha256:
+ e27466a5057624657ced4fe5b91ab0124737e93667f889ab5884212b9e9fadcf 919 electrotest-standalone_1.0-1.dsc
+ 42ec62ec144d9b2d1a3e8fc54e309a4a9fc736ebd0000d955323b7995192a864 2882 electrotest-standalone_1.0.orig.tar.gz
+ 9655dce2a7c06b99b49200bbbeabc06b719205a508cc353d96112751ffec1982 1440 electrotest-standalone_1.0-1.debian.tar.xz
+ dfdbe6643ab85e528f0188a014a30a25369084843e2f6ddf0c3ea255a49f54d8 6622 electrotest-standalone_1.0-1_arm64.buildinfo
+ 7558105f150a8345f9e4b3be56e16175db1e5b06344908fdd74d8b4d607ed38e 4682 electrotest-standalone_1.0-1_arm64.deb
+Files:
+ 5a96e03c101d159e6420f48baea5b240 919 misc optional electrotest-standalone_1.0-1.dsc
+ d9bad43a8b9dafbe4bd8585a099d44da 2882 misc optional electrotest-standalone_1.0.orig.tar.gz
+ 86f1b92360668fd3f9eec2e8a5ef7b35 1440 misc optional electrotest-standalone_1.0-1.debian.tar.xz
+ 08a59483e1ccd78c36ac8dfc9c67082c 6622 misc optional electrotest-standalone_1.0-1_arm64.buildinfo
+ 6a9d5460a0d7e1c0176f46e535602d33 4682 misc optional electrotest-standalone_1.0-1_arm64.deb

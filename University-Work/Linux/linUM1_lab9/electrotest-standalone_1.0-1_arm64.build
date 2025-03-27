@@ -1,0 +1,75 @@
+ dpkg-buildpackage -us -uc -ui
+dpkg-buildpackage: info: source package electrotest-standalone
+dpkg-buildpackage: info: source version 1.0-1
+dpkg-buildpackage: info: source distribution UNRELEASED
+dpkg-buildpackage: info: source changed by Adam <adamsirrety@gmail.com>
+ dpkg-source --before-build .
+dpkg-buildpackage: info: host architecture arm64
+ fakeroot debian/rules clean
+dh clean  
+   dh_auto_clean
+	make -j4 clean
+make[1]: Entering directory '/home/adamsirrety/Linux1/linUM1_labb9/electrotest-standalone-1.0'
+rm -f electrotest-standalone
+make[1]: Leaving directory '/home/adamsirrety/Linux1/linUM1_labb9/electrotest-standalone-1.0'
+   dh_clean
+ dpkg-source -b .
+dpkg-source: info: using source format '3.0 (quilt)'
+dpkg-source: info: building electrotest-standalone using existing ./electrotest-standalone_1.0.orig.tar.gz
+dpkg-source: info: building electrotest-standalone in electrotest-standalone_1.0-1.debian.tar.xz
+dpkg-source: info: building electrotest-standalone in electrotest-standalone_1.0-1.dsc
+ debian/rules build
+dh build  
+   dh_update_autotools_config
+   dh_autoreconf
+   dh_auto_configure
+   dh_auto_build
+	make -j4 "INSTALL=install --strip-program=true"
+make[1]: Entering directory '/home/adamsirrety/Linux1/linUM1_labb9/electrotest-standalone-1.0'
+gcc -Wall -Wextra -std=c99 electrotest-standalone.c -o electrotest-standalone
+electrotest-standalone.c:11:1: warning: type qualifiers ignored on function return type [-Wignored-qualifiers]
+   11 | const float e_helper(float remaining_resistance);
+      | ^~~~~
+electrotest-standalone.c:68:1: warning: type qualifiers ignored on function return type [-Wignored-qualifiers]
+   68 | const float e_helper(float remaining_resistance){
+      | ^~~~~
+make[1]: Leaving directory '/home/adamsirrety/Linux1/linUM1_labb9/electrotest-standalone-1.0'
+   dh_auto_test
+   create-stamp debian/debhelper-build-stamp
+ fakeroot debian/rules binary
+dh binary  
+   dh_testroot
+   dh_prep
+   dh_auto_install --destdir=debian/electrotest-standalone/
+	make -j4 install DESTDIR=/home/adamsirrety/Linux1/linUM1_labb9/electrotest-standalone-1.0/debian/electrotest-standalone AM_UPDATE_INFO_DIR=no "INSTALL=install --strip-program=true"
+make[1]: Entering directory '/home/adamsirrety/Linux1/linUM1_labb9/electrotest-standalone-1.0'
+install -d /home/adamsirrety/Linux1/linUM1_labb9/electrotest-standalone-1.0/debian/electrotest-standalone/usr/bin
+install -m 755 electrotest-standalone /home/adamsirrety/Linux1/linUM1_labb9/electrotest-standalone-1.0/debian/electrotest-standalone/usr/bin/
+make[1]: Leaving directory '/home/adamsirrety/Linux1/linUM1_labb9/electrotest-standalone-1.0'
+   dh_installdocs
+   dh_installchangelogs
+   dh_perl
+   dh_link
+   dh_strip_nondeterminism
+   dh_compress
+   dh_fixperms
+   dh_missing
+   dh_dwz
+dwz: debian/electrotest-standalone/usr/bin/electrotest-standalone: .debug_info section not present
+   dh_strip
+90847044f5ae01b8ba70892a509c987b4841d79b
+   dh_makeshlibs
+   dh_shlibdeps
+   dh_installdeb
+   dh_gencontrol
+   dh_md5sums
+   dh_builddeb
+dpkg-deb: building package 'electrotest-standalone' in '../electrotest-standalone_1.0-1_arm64.deb'.
+ dpkg-genbuildinfo -O../electrotest-standalone_1.0-1_arm64.buildinfo
+ dpkg-genchanges -O../electrotest-standalone_1.0-1_arm64.changes
+dpkg-genchanges: info: including full source code in upload
+ dpkg-source --after-build .
+dpkg-buildpackage: info: full upload (original source is included)
+Now running lintian electrotest-standalone_1.0-1_arm64.changes ...
+W: electrotest-standalone: no-manual-page usr/bin/electrotest-standalone
+Finished running lintian.

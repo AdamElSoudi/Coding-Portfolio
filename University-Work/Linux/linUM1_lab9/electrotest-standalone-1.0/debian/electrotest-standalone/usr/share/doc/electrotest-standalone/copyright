@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: electrotest-standalone
+Upstream-Contact: Adam El Soudi <adamsirrety@gmail.com>
+Source: https://www.umu.se
+
+Files: *
+Copyright: 2024, Adam El Soudi
+License: GPL-3.0-or-later
+
+License: GPL-3.0-or-later
+ Here is a license so I dont get more warnings.
