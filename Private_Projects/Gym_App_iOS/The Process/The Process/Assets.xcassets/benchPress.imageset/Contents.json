@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "icons8-bench-press-30 (1).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "icons8-bench-press-60.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "icons8-bench-press-90.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
