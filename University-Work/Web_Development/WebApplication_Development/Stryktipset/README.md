@@ -23,3 +23,18 @@ Fotbadskollen.se requested a JavaScript-based solution to integrate Stryktips da
 
 The solution involves:
 - **Modular JavaScript**: The project is structured into at least two ES6 modules, emphasizing the use of `import/export`
+- **DOM Manipulation**: JavaScript dynamically generates HTML elements (like table rows and data cells) that display the Stryktips data.
+- **AJAX**: Asynchronous JavaScript and XML are used for API communication, fetching data without needing to reload the webpage.
+
+## Setup
+
+1. Clone the repository.
+2. Open `index.html` in a modern web browser to view the project.
+
+## Additional Documentation
+
+A PDF document accompanies this project, answering detailed theoretical questions about DOM and AJAX as used in this application, providing insights into the deeper workings of web technologies within the context of this project.
+
+## Contribution
+
+This project was developed as part of a course assignment and is meant for demonstration purposes only.
