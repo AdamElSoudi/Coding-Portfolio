@@ -17,5 +17,3 @@ This C# console application is a number guessing game where players attempt to g
 ## System Requirements
 - .NET Framework
 - Supports any operating system that can run C# console applications.
-
-This game is perfect for anyone looking to test their deductive reasoning or just to pass some time with a fun challenge.
