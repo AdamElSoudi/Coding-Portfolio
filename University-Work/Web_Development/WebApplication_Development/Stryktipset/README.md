@@ -1,4 +1,4 @@
-# Fotbadskollen.se Stryktips Viewer
+# Stryktipset
 
 ## Project Overview
 
