@@ -60,13 +60,10 @@ SOURCE /path/to/mtdone.sql;
 
 _Or, in **MySQL Workbench**: `File → Open SQL Script → Run`._
 
-Make sure your `DatabaseConnect.java` file has the correct database name (`mt`) and login credentials for your local MySQL server.
+Make sure your `DatabaseConnect.java` file has the correct database name (`mt`) and login credentials for your local MySQL server:
 - **Database name:** `mt`  
 - **Host:** `localhost`  
 - **Username and password:** your MySQL credentials
-
-4. Ensure that the database connection details in DatabaseConnect.java match your local MySQL setup:
-
 
 ---
 
@@ -94,4 +91,4 @@ Agile practices were used throughout the project, with tasks divided into **spri
 
 ## 📌 Note
 
-This project was created strictly for educational purposes as part of a university assignment. While the UI and system design aim to simulate a real-world travel platform, the data and booking functionality are fictional and not intended for commercial use. In other words, you can not actually book a trip to Mars.
+This project was created strictly for educational purposes as part of a university assignment. While the UI and system design aim to simulate a real-world travel platform, the data and booking functionality are fictional and not intended for commercial use. In other words, you cannot actually book a trip to Mars.
