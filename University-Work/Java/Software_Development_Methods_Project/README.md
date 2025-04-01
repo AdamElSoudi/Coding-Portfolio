@@ -39,6 +39,37 @@ This project emphasized agile software development through sprint-based iteratio
 
 ---
 
+## ⚠️ Database Setup Required
+
+> ❗ **Important:** The application **requires a database** to be set up before it can run correctly.
+
+- The SQL file `mtdone.sql` is included in the project repository and contains all necessary table definitions, data, and stored procedures.  
+  👉 [View mtdone.sql on GitHub](https://github.com/AdamElSoudi/Coding-Portfolio/blob/main/University-Work/Java/Software_Development_Methods_Project/mtdone.sql)
+
+
+  ### To set up the database:
+
+1. Open your MySQL client (e.g., MySQL Workbench, phpMyAdmin, or terminal).
+2. Create a new database (recommended name: `mt`).
+3. Import the SQL dump file:
+```sql
+SOURCE /path/to/mtdone.sql;
+```
+> Replace `/path/to/mtdone.sql` with the actual path to the `mtdone.sql` file on your machine.
+
+
+_Or, in **MySQL Workbench**: `File → Open SQL Script → Run`._
+
+Make sure your `DatabaseConnect.java` file has the correct database name (`mt`) and login credentials for your local MySQL server.
+- **Database name:** `mt`  
+- **Host:** `localhost`  
+- **Username and password:** your MySQL credentials
+
+4. Ensure that the database connection details in DatabaseConnect.java match your local MySQL setup:
+
+
+---
+
 ## 👥 Team Collaboration
 
 MarsTravel was developed by a team of **5 members**, each contributing to different components of the system, such as:
