@@ -1,54 +1,54 @@
 body {
   font-family: "Segoe UI", Roboto, sans-serif;
-  background-color: #f5f7fa;
+  background-color: transparent;
   color: #333;
   margin: 0;
   padding: 0;
 }
 
 .container {
-  max-width: 700px;
-  margin: 60px auto;
+  max-width: 100%;
+  padding: 16px;
   background: white;
-  padding: 40px;
-  border-radius: 12px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  border-radius: 10px;
+  box-shadow: none;
 }
 
 h1 {
   text-align: center;
   color: #28a745;
-  margin-bottom: 10px;
+  margin: 0 0 6px 0;
+  font-size: 1.2rem;
 }
 
 .subtitle {
   text-align: center;
-  font-size: 1rem;
+  font-size: 0.85rem;
   color: #666;
-  margin-bottom: 30px;
+  margin-bottom: 14px;
 }
 
 input[type="text"] {
   width: 100%;
-  padding: 14px;
+  padding: 10px;
   border: 1px solid #ccc;
-  border-radius: 8px;
-  font-size: 1rem;
-  margin-bottom: 20px;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  margin-bottom: 10px;
   box-sizing: border-box;
 }
 
 button {
   background-color: #28a745;
   color: white;
-  padding: 14px 28px;
-  font-size: 1rem;
+  padding: 10px 18px;
+  font-size: 0.95rem;
   font-weight: 600;
   border: none;
-  border-radius: 8px;
+  border-radius: 6px;
   cursor: pointer;
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 12px;
   transition: background-color 0.3s ease;
 }
 
@@ -60,12 +60,17 @@ button:hover {
   background-color: #f9f9f9;
   padding: 1rem;
   border-radius: 8px;
-  margin-top: 1rem;
+  font-size: 0.95rem;
   font-family: 'Segoe UI', sans-serif;
-  line-height: 1.6;
-  max-width: 800px;
+  line-height: 1.5;
+  margin-top: 1rem;
   white-space: normal;
+  border: 2px solid #000;
+  overflow-y: auto;
 }
+
+
+
 
 .response-box h1, .response-box h2, .response-box h3 {
   margin-top: 1rem;
@@ -78,6 +83,7 @@ button:hover {
   padding: 0.75rem;
   border-radius: 5px;
   overflow-x: auto;
+  font-size: 0.85rem;
 }
 
 .response-box code {
@@ -85,37 +91,45 @@ button:hover {
 }
 
 .suggested-questions {
-  margin-top: 20px;
+  margin-top: 12px;
   background-color: #f6f6f6;
-  padding: 15px;
-  border-radius: 10px;
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: none;
 }
 
 .suggested-questions .suggestion-title {
   font-weight: bold;
-  margin-bottom: 10px;
+  margin-bottom: 6px;
   color: #333;
+  font-size: 0.9rem;
 }
 
 .suggested-questions ul {
   list-style: none;
   padding-left: 0;
+  margin: 0;
 }
 
 .suggested-questions li {
-  padding: 8px 12px;
-  margin-bottom: 6px;
+  padding: 6px 10px;
+  margin-bottom: 5px;
   background-color: #fff;
-  border-radius: 6px;
+  border-radius: 4px;
   cursor: pointer;
   border: 1px solid #ddd;
+  font-size: 0.9rem;
   transition: background-color 0.2s ease;
 }
 
 .suggested-questions li:hover {
   background-color: #e8f0fe;
+}
+
+.divider {
+  border-top: 3px solid #28a745; /* Green and thicker */
+  margin: 24px 0;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }

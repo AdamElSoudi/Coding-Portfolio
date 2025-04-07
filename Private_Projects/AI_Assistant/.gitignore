@@ -1,15 +1,15 @@
-# Python
+# Ignore environment variables and secret keys
+.env
+
+# Python cache and build files
 __pycache__/
 *.pyc
 
-# Virtual environments
-.venv/
-env/
-venv/
+# VSCode config (optional, if you use it)
+.vscode/
 
-# Secrets
-.env
-
-# macOS
+# Mac system files (optional)
 .DS_Store
+
+venv/
 

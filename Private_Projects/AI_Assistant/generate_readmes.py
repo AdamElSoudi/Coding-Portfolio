@@ -65,7 +65,7 @@ readmes = {
 
     # DotNet
         "EnvironmentCrime": os.path.join(
-            BASE_DIR, "University-Work/DotNet_Development/EnvironmentCrime/README.md"
+            BASE_DIR, "University-Work/DotNet_Development/EnvironmentCrime /README.md"
         ),
 
         "GuessTheNumber1": os.path.join(
@@ -136,7 +136,12 @@ readmes = {
     # Swift
       "The Process": os.path.join(
           BASE_DIR, "Private_Projects/Gym_App_iOS/README.md"
-      )
+      ),
+
+    # AI
+    "AI-Assistant": os.path.join(
+        BASE_DIR, "Private_Projects/ai_assistant/README.md"
+    )
 }
 
 output = {}

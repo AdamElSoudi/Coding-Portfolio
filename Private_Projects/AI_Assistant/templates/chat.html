@@ -4,6 +4,18 @@
     <meta charset="UTF-8">
     <title>AI Project Assistant</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='ai.css') }}">
+    <style>
+        #typed-answer::after {
+            content: "|";
+            animation: blink 1s step-start infinite;
+            margin-left: 2px;
+        }
+    
+        @keyframes blink {
+            50% { opacity: 0; }
+        }
+    </style>
+
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
@@ -19,14 +31,10 @@
 
         <div class="suggested-questions">
             <p class="suggestion-title">Example questions (click to try):</p>
-            <ul>
-                <li onclick="fillQuestion(this)">What’s the goal of the MarsTravel - Interplanetary Booking System project?</li>
-                <li onclick="fillQuestion(this)">Explain how the Electricity Price Analyzer project works.</li>
-                <li onclick="fillQuestion(this)">Can you summarize the Simple Movie Database project?</li>
-                <li onclick="fillQuestion(this)">What does the Calorie-Calculator Website do?</li>
-                <li onclick="fillQuestion(this)">Show me a sample SQL query from the Webshop Orders & Inventory Database.</li>
-            </ul>
+            <ul id="suggestion-list"></ul>
         </div>
+
+        <div class="divider"></div>
 
         <div id="response" class="response-box"></div>
     </div>
@@ -46,8 +54,15 @@
 
             const data = await res.json();
             if (data.answer) {
-                responseBox.innerHTML = marked.parse(data.answer);
-            } else {
+                const questionDisplay = `<p><strong><u>Your question:</u></strong> <u> ${question}</u> </p>`;
+                const answerDisplay = marked.parse(data.answer);
+
+                typeText(responseBox, questionDisplay, answerDisplay);
+
+                responseBox.scrollIntoView({ behavior: "smooth" });
+                document.getElementById("question").value = ""; // Clearing the input
+            }
+            else {
                 responseBox.innerText = "Error: " + data.error;
             }
         }
@@ -56,6 +71,108 @@
             const input = document.getElementById("question");
             input.value = element.innerText;
         }
+
+        document.getElementById("question").addEventListener("keypress", function (e) {
+            if (e.key === "Enter") {
+                e.preventDefault();
+                ask();
+            }
+        });
+
+        // This function animated the AI typing out the output
+        function typeText(element, questionHTML, answerHTML) {
+            element.innerHTML = questionHTML; // Display the question part
+            const tempDiv = document.createElement("div");
+            tempDiv.innerHTML = answerHTML;
+            const nodes = Array.from(tempDiv.childNodes);
+
+            element.insertAdjacentHTML("beforeend", "<div id='typed-answer'></div>");
+            const typedContainer = document.getElementById("typed-answer");
+
+            function typeNode(node, container, callback) {
+                if (node.nodeType === Node.TEXT_NODE) {
+                    let text = node.textContent;
+                    let i = 0;
+                    const interval = setInterval(() => {
+                        if (i < text.length) {
+                            container.append(text.charAt(i));
+                            i++;
+                        } else {
+                            clearInterval(interval);
+                            callback();
+                        }
+                    }, 12); // speed similar to ChatGPT
+
+                } else if (node.nodeType === Node.ELEMENT_NODE) {
+                    const el = document.createElement(node.nodeName);
+                    for (let attr of node.attributes) {
+                        el.setAttribute(attr.name, attr.value);
+                    }
+                    container.appendChild(el);
+                    const children = Array.from(node.childNodes);
+                    let i = 0;
+                    function nextChild() {
+                        if (i < children.length) {
+                            typeNode(children[i], el, nextChild);
+                            i++;
+                        } else {
+                            callback();
+                        }
+                    }
+                    nextChild();
+                } else {
+                    callback();
+                }
+            }
+
+            let i = 0;
+            function next() {
+                if (i < nodes.length) {
+                    typeNode(nodes[i], typedContainer, next);
+                    i++;
+                }
+            }
+            next();
+        }
     </script>
+
+<script>
+    const staticSuggestions = [
+        "What’s the goal of the MarsTravel - Interplanetary Booking System project?",
+        "Can you summarize the Simple Movie Database project?",
+        "What does the Calorie-Calculator Website do?",
+        "Show me a sample SQL query from the Webshop Orders & Inventory Database.",
+        "What kind of problems does the Electricity Price Analyzer solve?",
+        "Explain the Observer Pattern Implementation.",
+        "What is the difference between Guess The Number 1 and 2?",
+        "Can you tell me about the Debian Package Management project?",
+        "What was the main goal of the AI Projects Assistant?"
+    ];
+
+    function getRandomSuggestions(count) {
+        const shuffled = staticSuggestions.sort(() => 0.5 - Math.random());
+        return shuffled.slice(0, count);
+    }
+
+    function populateSuggestions() {
+        const suggestionList = document.getElementById("suggestion-list");
+
+        // Always include the fixed first question
+        const alwaysInclude = ["Tell me about yourself"];
+        const randomSuggestions = getRandomSuggestions(4);
+        const finalList = [...alwaysInclude, ...randomSuggestions];
+
+        suggestionList.innerHTML = "";
+        finalList.forEach(question => {
+            const li = document.createElement("li");
+            li.innerText = question;
+            li.onclick = () => fillQuestion(li);
+            suggestionList.appendChild(li);
+        });
+    }
+
+    // Populate on page load
+    window.onload = populateSuggestions;
+</script>
 </body>
 </html>
