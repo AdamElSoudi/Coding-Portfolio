@@ -3,7 +3,6 @@
 ## Overview
 This project contains MongoDB scripts and exercises for **NoSQL Lab 2** at university.  
 It demonstrates queries, aggregations, updates, and lookups on sample datasets including **cities**, **customers**, and **orders**.  
-All work is included in the `db2_queries.js` file, with MongoDB shell commands to explore and manipulate the data.
 
 ## Features
 - **City Queries**: Retrieve cities by ID, coordinates, or population; perform regex searches.  
@@ -32,8 +31,7 @@ Follow the steps below to execute the MongoDB queries:
 
 ## Prerequisites
 - MongoDB installed and running  
-- MongoDB shell (or a GUI like Compass)  
-- Basic understanding of NoSQL concepts
+- MongoDB shell (or a GUI like Compass)
 
 ## Notes
 - Collections include \`citys\`, \`customers\`, \`orders\`, and \`s26\`.  
