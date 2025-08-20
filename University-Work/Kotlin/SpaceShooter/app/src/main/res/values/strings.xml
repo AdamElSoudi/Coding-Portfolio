@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SpaceShooter</string>
+    <string name="start_game">Start Game!</string>
+    <string name="highscores">Highscore List</string>
+
+    <!--Game.kt -->
+    <string name="health">Health: %1$d</string>
+    <string name="distance">Distance: %1$d km</string>
+    <string name="game_over">GAME OVER!</string>
+    <string name="press_to_restart">(Press to Restart)</string>
+    <string name="score">Score: %1$d km</string>
+
+    <!--HighScoresAdapter.kt -->
+    <string name="position">%1$d: %2$d</string>
+
+<!--activity_high_scores.xml -->
+    <string name="top10">Top 10 High Scores</string>
+    <string name="back">Back</string>
+
+<!--MainActivity.kt -->
+    <string name="longest_distance">Longest distance: %1$d km</string>
+    <string name="no_scores_available">No scores available.</string>
+</resources>
